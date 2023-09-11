@@ -1,0 +1,25 @@
+{
+  "name": "one-dnd",
+  "version": "1.0.0",
+  "description": "This project has the objective of creating a One Dnd database",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunomachadors/one-dnd.git"
+  },
+  "keywords": [
+    "dnd",
+    "rpg",
+    "fantasy"
+  ],
+  "author": "Bruno Machado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunomachadors/one-dnd/issues"
+  },
+  "homepage": "https://github.com/brunomachadors/one-dnd#readme",
+  "type": "module"
+}

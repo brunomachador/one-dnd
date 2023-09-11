@@ -1,0 +1,182 @@
+{
+  "primaryAbility": "Strenght",
+  "hitDice": 12,
+  "proficiencies": {
+    "savingTrows": ["Strenght", "Constitution"],
+    "skills": {
+      "quantity": 2,
+      "options": [
+        "Animal Handling",
+        "Athletics",
+        "Intimidation",
+        "Nature",
+        "Perception",
+        "Survival"
+      ]
+    },
+    "weapons": ["Simple Weapons", "Martian Weapons"],
+    "tools": []
+  },
+  "armorTraining": {
+    "light": true,
+    "medium": true,
+    "heavy": false,
+    "shields": true
+  },
+  "startingEquipament": {
+    "pack": "Explorer Pack",
+    "weapons": {
+      "primary": { "a": ["Greataxe"], "b": ["Battleaxe", "Shield", "1Ogp"] },
+      "secundary": "Handaxe"
+    },
+    "gold": 15
+  },
+  "level": {
+    "1": {
+      "proficiencyBonus": 2,
+      "classFeatures": ["Rage", "Unarmored Defense", "Weapon Mastery"],
+      "rages": 2,
+      "rageDamage": 2,
+      "weaponMastery": 2
+    },
+    "2": {
+      "proficiencyBonus": 2,
+      "classFeatures": ["Danger Sense", "Reckless Attack"],
+      "rages": 2,
+      "rageDamage": 2,
+      "weaponMastery": 2
+    },
+    "3": {
+      "proficiencyBonus": 2,
+      "classFeatures": ["Barbarian Subclass", "Primal Knowledge"],
+      "rages": 3,
+      "rageDamage": 2,
+      "weaponMastery": 2
+    },
+    "4": {
+      "proficiencyBonus": 2,
+      "classFeatures": ["Ability Score Improvement"],
+      "rages": 3,
+      "rageDamage": 2,
+      "weaponMastery": 3
+    },
+    "5": {
+      "proficiencyBonus": 3,
+      "classFeatures": ["Extra Attack", "Fast Movement"],
+      "rages": 3,
+      "rageDamage": 2,
+      "weaponMastery": 3
+    },
+    "6": {
+      "proficiencyBonus": 3,
+      "classFeatures": ["Subclass Feature"],
+      "rages": 4,
+      "rageDamage": 2,
+      "weaponMastery": 3
+    },
+    "7": {
+      "proficiencyBonus": 3,
+      "classFeatures": ["Feral Instinct", "Instinctive Pounce"],
+      "rages": 4,
+      "rageDamage": 2,
+      "weaponMastery": 3
+    },
+    "8": {
+      "proficiencyBonus": 3,
+      "classFeatures": ["Ability Score Improvement"],
+      "rages": 4,
+      "rageDamage": 2,
+      "weaponMastery": 3
+    },
+    "9": {
+      "proficiencyBonus": 4,
+      "classFeatures": ["Brutal Critical"],
+      "rages": 4,
+      "rageDamage": 3,
+      "weaponMastery": 3
+    },
+    "10": {
+      "proficiencyBonus": 4,
+      "classFeatures": ["Subclass Feature"],
+      "rages": 4,
+      "rageDamage": 3,
+      "weaponMastery": 4
+    },
+    "11": {
+      "proficiencyBonus": 4,
+      "classFeatures": ["Relentless Rage"],
+      "rages": 4,
+      "rageDamage": 3,
+      "weaponMastery": 4
+    },
+    "12": {
+      "proficiencyBonus": 4,
+      "classFeatures": ["Ability Score Improvement"],
+      "rages": 5,
+      "rageDamage": 3,
+      "weaponMastery": 4
+    },
+    "13": {
+      "proficiencyBonus": 5,
+      "classFeatures": ["Brutal Critical"],
+      "rages": 5,
+      "rageDamage": 3,
+      "weaponMastery": 4
+    },
+    "14": {
+      "proficiencyBonus": 5,
+      "classFeatures": ["Subclass Feature"],
+      "rages": 5,
+      "rageDamage": 3,
+      "weaponMastery": 4
+    },
+    "15": {
+      "proficiencyBonus": 5,
+      "classFeatures": ["Persistent Rage"],
+      "rages": 5,
+      "rageDamage": 3,
+      "weaponMastery": 4
+    },
+    "16": {
+      "proficiencyBonus": 5,
+      "classFeatures": ["Ability Score Improvement"],
+      "rages": 5,
+      "rageDamage": 4,
+      "weaponMastery": 4
+    },
+    "17": {
+      "proficiencyBonus": 6,
+      "classFeatures": ["Brutal Critical"],
+      "rages": 6,
+      "rageDamage": 4,
+      "weaponMastery": 4
+    },
+    "18": {
+      "proficiencyBonus": 6,
+      "classFeatures": ["Indomitable Might"],
+      "rages": 6,
+      "rageDamage": 4,
+      "weaponMastery": 4
+    },
+    "19": {
+      "proficiencyBonus": 6,
+      "classFeatures": ["Ability Score Improvement"],
+      "rages": 6,
+      "rageDamage": 4,
+      "weaponMastery": 4
+    },
+    "20": {
+      "proficiencyBonus": 6,
+      "classFeatures": ["Primal Champion"],
+      "rages": 6,
+      "rageDamage": 4,
+      "weaponMastery": 4
+    }
+  },
+  "subclasses": [
+    "Path of the Berseker",
+    "Path of the Wild Heart",
+    "Path of the World Tree",
+    "Path of the Zealot"
+  ]
+}
